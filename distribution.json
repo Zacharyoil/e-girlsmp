@@ -9,11 +9,11 @@
   "servers": [
     {
       "id": "E-girlSMP-1.19.2",
-      "name": "E-girlSMP (Minecraft 1.19.2)",
-      "description": "E-girlSMP Running Minecraft 1.19.2 (Forge v43.2.21)",
-      "icon": null,
-      "version": "1.0.0",
-      "address": "localhost:25565",
+      "name": "E-girlSMP",
+      "description": "Come on this server if you want E-girls",
+      "icon": "https://github.com/Zacharyoil/e-girlsmp/blob/main/uwu.png?raw=true",
+      "version": "420.6.9",
+      "address": "e-girlsmp.com",
       "minecraftVersion": "1.19.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
