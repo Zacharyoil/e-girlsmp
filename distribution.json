@@ -11,7 +11,7 @@
       "id": "E-girlSMP-1.19.2",
       "name": "E-girlSMP (Minecraft 1.19.2)",
       "description": "E-girlSMP Running Minecraft 1.19.2 (Forge v43.2.21)",
-      "icon": null,
+      "icon": "https://github.com/Zacharyoil/e-girlsmp/blob/main/uwu.png?raw=true",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.19.2",
