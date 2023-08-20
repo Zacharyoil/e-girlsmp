@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://zacharyoil.dev/rss/feed.xml",
+  "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -9,19 +9,19 @@
   "servers": [
     {
       "id": "E-girlSMP-1.19.2",
-      "name": "E-girlSMP",
-      "description": "Come on this server if you want E-girls",
-      "icon": "https://github.com/Zacharyoil/e-girlsmp/blob/main/uwu.png?raw=true",
-      "version": "420.6.9",
-      "address": "e-girlsmp.com",
+      "name": "E-girlSMP (Minecraft 1.19.2)",
+      "description": "E-girlSMP Running Minecraft 1.19.2 (Forge v43.2.21)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
       "minecraftVersion": "1.19.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
-      "autoconnect": true,
+      "mainServer": false,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:lowcodelanguage:1.19.2-43.2.21",
@@ -540,6 +540,16 @@
             "size": 1090499,
             "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-girlSMP-1.19.2/forgemods/required/jei-1.19.2-forge-11.6.0.1016.jar",
             "MD5": "05f4ea9c27d3f01d04f8264bcc6e1247"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:5.9.7@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7091512,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-girlSMP-1.19.2/forgemods/required/journeymap-1.19.2-5.9.7-forge.jar",
+            "MD5": "617122169f0ed16dd79cd48978d0e9c8"
           }
         },
         {
