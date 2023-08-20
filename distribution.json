@@ -553,6 +553,26 @@
           }
         },
         {
+          "id": "idiamondhunter.morebows:morebows:1.0.12@jar",
+          "name": "More Bows Restrung",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 61570,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-girlSMP-1.19.2/forgemods/required/MoreBows-1.0.12+1.19.2.forge.jar",
+            "MD5": "2e0aa2cc0a2799a303d97666192e96a6"
+          }
+        },
+        {
+          "id": "me.kg20.moreoresinone.main:moreoresinone:1.0@jar",
+          "name": "More Ores in ONE",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 848887,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-girlSMP-1.19.2/forgemods/required/MoreOresInONE-1.0-1.19.2.jar",
+            "MD5": "9b1a36217a12e4572772ae74f3e481cb"
+          }
+        },
+        {
           "id": "mtr:mtr:1.19.2-3.2.2-hotfix-1@jar",
           "name": "Minecraft Transit Railway",
           "type": "ForgeMod",
@@ -583,6 +603,16 @@
           }
         },
         {
+          "id": "com.github.teamfusion:rottencreatures:1.0.1@jar",
+          "name": "Rotten Creatures",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 392547,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-girlSMP-1.19.2/forgemods/required/rottencreatures-forge-1.19.2-1.0.1.jar",
+            "MD5": "7111c9c4e35789e0bac096675b04b918"
+          }
+        },
+        {
           "id": "xyz.przemyk:simpleplanes:1.19.2-5.2.2@jar",
           "name": "Simple Planes",
           "type": "ForgeMod",
@@ -590,6 +620,16 @@
             "size": 667977,
             "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-girlSMP-1.19.2/forgemods/required/simpleplanes-1.19.2-5.2.2.jar",
             "MD5": "d527731f8429405c7f8b6531f347ca4c"
+          }
+        },
+        {
+          "id": "net.stardustlabs:structory:1.3.1a@jar",
+          "name": "Structory",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1243852,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-girlSMP-1.19.2/forgemods/required/Structory_1.19.3_v1.3.1a.jar",
+            "MD5": "48ee90282ddc6f627bb2287175a62c6b"
           }
         },
         {
