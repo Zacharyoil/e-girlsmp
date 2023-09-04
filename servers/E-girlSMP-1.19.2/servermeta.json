@@ -2,8 +2,8 @@
   "$schema": "file:///C:/Users/zacha/OneDrive/Bureau/nebula/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "E-girlSMP (Minecraft 1.19.2)",
-    "description": "E-girlSMP Running Minecraft 1.19.2 (Forge v43.2.21)",
+    "name": "E-GirlSMP (Minecraft 1.19.2)",
+    "description": "E-GirlSMP Running Minecraft 1.19.2 (Forge v43.2.21)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "localhost:25565",
     "discord": {
