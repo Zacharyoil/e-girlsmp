@@ -8,10 +8,10 @@
   },
   "servers": [
     {
-      "id": "E-GirlSMP-1.19.2",
+      "id": "E-GirlSMP",
       "name": "E-GirlSMP",
-      "description": "E-GirlSMP",
-      "icon": null,
+      "description": "Get E-girls here!",
+      "icon": "https://github.com/Zacharyoil/e-girlsmp/blob/main/uwu.png?raw=true",
       "version": "1.0.0",
       "address": "e-girlsmp.com",
       "minecraftVersion": "1.19.2",
@@ -483,6 +483,46 @@
           }
         },
         {
+          "id": "com.simibubi:create:0.5.1.c@jar",
+          "name": "Create",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14741075,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/create-1.19.2-0.5.1.c.jar",
+            "MD5": "38a666b45c13dbab5a1710e698fd4d29"
+          }
+        },
+        {
+          "id": "com.blakebr0:cucumber:6.0.8@jar",
+          "name": "Cucumber Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 192142,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/Cucumber-1.19.2-6.0.8.jar",
+            "MD5": "0edace36666890844a9a4ff564957124"
+          }
+        },
+        {
+          "id": "top.theillusivec4:curios:1.19.2-5.1.4.0@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 278394,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/curios-forge-1.19.2-5.1.4.0.jar",
+            "MD5": "485c5f3dc2d5d74c4b5f08184e606334"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:dummmmmmy:1.19.2-1.7.1@jar",
+          "name": "MmmMmmMmmmmm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 186878,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/dummmmmmy-1.19.2-1.7.1.jar",
+            "MD5": "4cfbad96ea26056d5c809736fa7c75f0"
+          }
+        },
+        {
           "id": "net.hexnowloading:dungeonnowloading:18.2-1.19.2@jar",
           "name": "Dungeon Now Loading Mod",
           "type": "ForgeMod",
@@ -533,6 +573,16 @@
           }
         },
         {
+          "id": "de.maxhenkel:gravestone:1.19.2-1.0.1@jar",
+          "name": "Gravestone Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 250137,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/gravestone-1.19.2-1.0.1.jar",
+            "MD5": "ebf018d912ce949494b2b5cd31b52019"
+          }
+        },
+        {
           "id": "blusunrize.immersiveengineering:immersiveengineering:1.19.2-9.2.2-165@jar",
           "name": "Immersive Engineering",
           "type": "ForgeMod",
@@ -540,16 +590,6 @@
             "size": 10893698,
             "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/ImmersiveEngineering-1.19.2-9.2.2-165.jar",
             "MD5": "557b97941524ed12df49dc129badd6df"
-          }
-        },
-        {
-          "id": "com.natamus:infinitetrading:4.0@jar",
-          "name": "Infinite Trading",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 43831,
-            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/infinitetrading-1.19.2-4.0.jar",
-            "MD5": "96e569d4a5c8556da327e315519723e8"
           }
         },
         {
@@ -573,6 +613,16 @@
           }
         },
         {
+          "id": "net.mehvahdjukaar:moonlight:1.19.2-2.2.44@jar",
+          "name": "Moonlight Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 853974,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/moonlight-1.19.2-2.2.44-forge.jar",
+            "MD5": "bc7ec269b8c887410a7f22409d3e4965"
+          }
+        },
+        {
           "id": "idiamondhunter.morebows:morebows:1.0.12@jar",
           "name": "More Bows Restrung",
           "type": "ForgeMod",
@@ -590,6 +640,16 @@
             "size": 848887,
             "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/MoreOresInONE-1.0-1.19.2.jar",
             "MD5": "9b1a36217a12e4572772ae74f3e481cb"
+          }
+        },
+        {
+          "id": "com.blakebr0:mysticalagriculture:6.0.12@jar",
+          "name": "Mystical Agriculture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2068948,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/MysticalAgriculture-1.19.2-6.0.12.jar",
+            "MD5": "eff8a222cde22ad817fa11dad94f3781"
           }
         },
         {
