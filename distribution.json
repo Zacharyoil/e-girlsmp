@@ -1403,16 +1403,6 @@
           }
         },
         {
-          "id": "toughasnails.core:toughasnails:1.19-8.0.0.78@jar",
-          "name": "Tough As Nails",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 248627,
-            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/ToughAsNails-1.19-8.0.0.78.jar",
-            "MD5": "363d53500fd5b499da4433bddaf7b110"
-          }
-        },
-        {
           "id": "commoble.tubesreloaded:tubesreloaded:2.0.0.2@jar",
           "name": "Tubes Reloaded",
           "type": "ForgeMod",
