@@ -8,9 +8,9 @@
   },
   "servers": [
     {
-      "id": "E-GirlSMP-1.19.2",
+     "id": "E-GirlSMP-1.19.2",
       "name": "E-GirlSMP",
-      "description": "Want some e-girls or e-boys?",
+      "description": "Just a group of e-girls playing minecraft",
       "icon": "https://github.com/Zacharyoil/e-girlsmp/blob/main/uwu.png?raw=true",
       "version": "1.0.0",
       "address": "e-girlsmp.com",
@@ -430,16 +430,6 @@
             "size": 112090,
             "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/AdHooks-1.19.2-9.0.3.0-build.0543.jar",
             "MD5": "fa236e5dd88da4b4e4430b00eb90c010"
-          }
-        },
-        {
-          "id": "com.endertech.minecraft.mods:adpother:7.0.16.0@jar",
-          "name": "Pollution of the Realms",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 618593,
-            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/AdPother-1.19.2-7.0.16.0-build.0998.jar",
-            "MD5": "bb073c40e2b9320f24f2a184c9961cd4"
           }
         },
         {
@@ -1043,16 +1033,6 @@
           }
         },
         {
-          "id": "io.github.flemmli97:improvedmobs:1.19-1.11.0@jar",
-          "name": "Improved Mobs Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 288492,
-            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/improvedmobs-1.19-1.11.0-forge.jar",
-            "MD5": "2fe5c4b50ab4110dfef812962484e8d4"
-          }
-        },
-        {
           "id": "com.inventorypets:inventorypets:2.0.19@jar",
           "name": "Inventory Pets",
           "type": "ForgeMod",
@@ -1470,6 +1450,16 @@
             "size": 667977,
             "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/simpleplanes-1.19.2-5.2.2.jar",
             "MD5": "d527731f8429405c7f8b6531f347ca4c"
+          }
+        },
+        {
+          "id": "net.sweenus:simplyswords:1.47.0-1.19.2@jar",
+          "name": "Simply Swords",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 32228283,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/simplyswords-forge-1.47.0-1.19.2.jar",
+            "MD5": "bb9916570de40a7bf79582680f628681"
           }
         },
         {
