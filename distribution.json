@@ -1073,6 +1073,16 @@
           }
         },
         {
+          "id": "snownee.jade:jade:8.9.0@jar",
+          "name": "Jade",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 428477,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/Jade-1.19.1-forge-8.9.0.jar",
+            "MD5": "90e587c565d802d353910db9a78f3497"
+          }
+        },
+        {
           "id": "mezz.jei:jei:11.6.0.1016@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
@@ -1593,16 +1603,6 @@
           }
         },
         {
-          "id": "mcjty.theoneprobe:theoneprobe:1.19-6.2.2@jar",
-          "name": "The One Probe",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 332491,
-            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/theoneprobe-1.19-6.2.2.jar",
-            "MD5": "67f217c81b311f2c5131758f8c37cefd"
-          }
-        },
-        {
           "id": "com.klikli_dev:theurgy:1.19.2-1.3.0@jar",
           "name": "Theurgy",
           "type": "ForgeMod",
@@ -1630,6 +1630,16 @@
             "size": 561796,
             "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/tubesreloaded-1.19.2-2.0.0.2.jar",
             "MD5": "56dcd36c14a3a34c1eef680cd4db37f0"
+          }
+        },
+        {
+          "id": "twilightforest:twilightforest:4.2.1518@jar",
+          "name": "The Twilight Forest",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 23563760,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/twilightforest-1.19.2-4.2.1518-universal.jar",
+            "MD5": "94c6a36684a34cbd8e5b468978682164"
           }
         },
         {
@@ -1720,6 +1730,16 @@
             "size": 365792,
             "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/waystones-forge-1.19-11.1.0.jar",
             "MD5": "fbbfd5e6f26bba45157a9fbcd714c695"
+          }
+        },
+        {
+          "id": "com.minecraftserverzone:weaponmaster:3.0.5@jar",
+          "name": "YDM's Weapon Master",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 180466,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/weaponmaster-multiplayer-forge-1.19.2-3.0.5.jar",
+            "MD5": "a3f976107af327b7f5ee93e37aed6783"
           }
         },
         {
