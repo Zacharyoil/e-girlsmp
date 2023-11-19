@@ -8,9 +8,9 @@
   },
   "servers": [
     {
-     "id": "E-GirlSMP-1.19.2",
+"id": "E-GirlSMP-1.19.2",
       "name": "E-GirlSMP",
-      "description": "Just a group of e-girls playing minecraft",
+      "description": "Want some e-girls or e-boys?",
       "icon": "https://github.com/Zacharyoil/e-girlsmp/blob/main/uwu.png?raw=true",
       "version": "1.0.0",
       "address": "e-girlsmp.com",
@@ -413,6 +413,16 @@
           ]
         },
         {
+          "id": "net.mcreator:arsenia:1.0.0@jar",
+          "name": "Arsenia",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16349712,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/[FORGE]+[1.19.2]+Arsenia+Patch++CBomb+Update.jar",
+            "MD5": "6e83d2d7c851f132d1f2b45d79a1fd33"
+          }
+        },
+        {
           "id": "earth.terrarium:ad_astra:1.12.6@jar",
           "name": "Ad Astra",
           "type": "ForgeMod",
@@ -440,6 +450,16 @@
             "size": 21774900,
             "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/aether-1.19.2-1.0.0-beta.1.2-forge.jar",
             "MD5": "6c7d422e0213d75b3b1101543b2c939c"
+          }
+        },
+        {
+          "id": "xxrexraptorxx.ageofweapons.main:ageofweapons:0.15.1@jar",
+          "name": "Age of Weapons - Reforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1462671,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/AgeOfWeapons-Reforged-1.19.2-(v.0.15.1).jar",
+            "MD5": "2e8347463471f33ce3722b70dfdbfb9d"
           }
         },
         {
@@ -583,6 +603,16 @@
           }
         },
         {
+          "id": "net.mcreator.astraldimension:astral_dimension:1.4.0@jar",
+          "name": "Astral Dimension",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6194889,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/Astral_1.5.jar",
+            "MD5": "c130bd4d8d85afc5376e6d9b687e6a60"
+          }
+        },
+        {
           "id": "vazkii.arl:autoreglib:1.8.2-55@jar",
           "name": "AutoRegLib",
           "type": "ForgeMod",
@@ -620,6 +650,16 @@
             "size": 904072,
             "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/bettercombat-forge-1.7.1+1.19.jar",
             "MD5": "9ee1b674b73381a188bbb4ce1c7db375"
+          }
+        },
+        {
+          "id": "com.legacy:blue_skies:1.3.20@jar",
+          "name": "Blue Skies",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 82865712,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/blue_skies-1.19.2-1.3.20.jar",
+            "MD5": "f93a570111eeac3cbddaa87574ec36c7"
           }
         },
         {
@@ -763,6 +803,16 @@
           }
         },
         {
+          "id": "corgitaco.corgilib:corgilib:1.0.0.34@jar",
+          "name": "CorgiLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 285958,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/CorgiLib-forge-1.19.2-1.0.0.34.jar",
+            "MD5": "555af4f4904e6678ae44022009e909b9"
+          }
+        },
+        {
           "id": "plus.dragons.createenchantmentindustry:create_enchantment_industry:1.2.6.c@jar",
           "name": "Create Enchantment Industry",
           "type": "ForgeMod",
@@ -810,6 +860,26 @@
             "size": 171195,
             "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/DarkUtilities-Forge-1.19.2-13.1.7.jar",
             "MD5": "dac542ba1f5457827bd45f8a221bc9dd"
+          }
+        },
+        {
+          "id": "com.kyanite:deeperdarker:1.2.2@jar",
+          "name": "Deeper and Darker",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 17322653,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/deeperdarker-forge-1.19.2-1.2.2.jar",
+            "MD5": "e38ae081dbe97fba214904eeeac6d6b8"
+          }
+        },
+        {
+          "id": "divinerpg:divinerpg:1.9.6.9@jar",
+          "name": "DivineRPG",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29012256,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/DivineRPG-1.9.6.9.jar",
+            "MD5": "8e73a671ad5ec9b01dcc84f6c6b23b83"
           }
         },
         {
@@ -903,6 +973,26 @@
           }
         },
         {
+          "id": "net.mcreator:endlessbiomes:1.0.0@jar",
+          "name": "EndlessBiomes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2820092,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/EndlessBiomes+1.4s+-+1.19.2+(Server-friendly).jar",
+            "MD5": "3936b790c610dfd30cfb45ff2695748f"
+          }
+        },
+        {
+          "id": "corgitaco.enhancedcelestials:enhancedcelestials:2.1.0.6@jar",
+          "name": "Enhanced Celestials",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1624014,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/Enhanced_Celestials-forge-1.19.2-2.1.0.6.jar",
+            "MD5": "8e61fd66fcfa23e9e9407345da1d0a47"
+          }
+        },
+        {
           "id": "cofh.ensorcellation:ensorcellation:4.2.0.14@jar",
           "name": "Ensorcellation",
           "type": "ForgeMod",
@@ -910,6 +1000,16 @@
             "size": 126703,
             "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/ensorcellation-1.19.2-4.2.0.14.jar",
             "MD5": "fd6ddf13986d428f6e69c31c9b96fb59"
+          }
+        },
+        {
+          "id": "yesman.epicfight.main:epicfight:19.5.17@jar",
+          "name": "Epic Fight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5618790,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/EpicFight-19.5.17.jar",
+            "MD5": "2ef7f40610ce21f02d354904161760f8"
           }
         },
         {
@@ -930,6 +1030,16 @@
             "size": 126464,
             "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/feathers-1.1.2.jar",
             "MD5": "ab7779114bf52b07d89bd08ef7161473"
+          }
+        },
+        {
+          "id": "com.stal111:forbidden_arcanus:1.19.2-2.1.5@jar",
+          "name": "Forbidden & Arcanus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2412071,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/forbidden_arcanus-1.19.2-2.1.5.jar",
+            "MD5": "5910c2679d9db31c3646b1a5cc1cb460"
           }
         },
         {
@@ -1003,6 +1113,16 @@
           }
         },
         {
+          "id": "net.joefoxe:hexerei:0.3.3.1@jar",
+          "name": "Hexerei",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9583038,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/hexerei-0.3.3.1.jar",
+            "MD5": "d5b36d62df3f1864a5fd4179d679163f"
+          }
+        },
+        {
           "id": "com.dannyboythomas:hole_filler_mod:1.2.7@jar",
           "name": "Hole Filler Mod",
           "type": "ForgeMod",
@@ -1030,6 +1150,16 @@
             "size": 1117017,
             "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/ImprovableSkills-1.19.2-19.2.6.jar",
             "MD5": "66cef49b40f0d13ef18dca9c632d3e2c"
+          }
+        },
+        {
+          "id": "insane96mcp.insanelib:insanelib:1.7.5@jar",
+          "name": "InsaneLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 73851,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/InsaneLib-1.7.5-mc1.19.2.jar",
+            "MD5": "39b7c3b97c79f45179733d5887d023c2"
           }
         },
         {
@@ -1273,6 +1403,16 @@
           }
         },
         {
+          "id": "com.chaosthedude:naturescompass:1.19.2-1.10.0-forge@jar",
+          "name": "Nature's Compass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 210023,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/NaturesCompass-1.19.2-1.10.0-forge.jar",
+            "MD5": "629b8abab8951d46c2ad078f3f12553a"
+          }
+        },
+        {
           "id": "net.mcreator.nourishednether:nourished_nether:24@jar",
           "name": "Nourished Nether",
           "type": "ForgeMod",
@@ -1350,6 +1490,16 @@
             "size": 181297,
             "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/player-animation-lib-forge-1.0.2.jar",
             "MD5": "32be10092ee8672a2e3a36a019007a96"
+          }
+        },
+        {
+          "id": "insane96mcp.progressivebosses:progressivebosses:3.7.5@jar",
+          "name": "Progressive Bosses",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 206314,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/ProgressiveBosses-3.7.5-mc1.19.2.jar",
+            "MD5": "24fd39a07f994325658810f53805dcfe"
           }
         },
         {
@@ -1443,6 +1593,26 @@
           }
         },
         {
+          "id": "net.mcreator.rpgstylemoreweapons:rpgsmw:7.11.19.2@jar",
+          "name": "RPG_style_More_Weapons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7728848,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/RPG_style_more_weapons_7.1_1.19.2.jar",
+            "MD5": "45522cc2d37eb6cf4ef7a49876e39f14"
+          }
+        },
+        {
+          "id": "net.silentchaos512:scalinghealth:7.0.0+6@jar",
+          "name": "Scaling Health",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 532180,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/ScalingHealth-1.19.2-7.0.0+6.jar",
+            "MD5": "d2820f25a8a7ea32e0f706e1e9fdd7bc"
+          }
+        },
+        {
           "id": "sereneseasons.core:sereneseasons:1.19.2-8.1.0.24@jar",
           "name": "Serene Seasons",
           "type": "ForgeMod",
@@ -1450,6 +1620,16 @@
             "size": 143030,
             "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/SereneSeasons-1.19.2-8.1.0.24.jar",
             "MD5": "6ccedabcc2286200c57ef208cb1049f2"
+          }
+        },
+        {
+          "id": "net.silentchaos512.lib:silentlib:7.0.3@jar",
+          "name": "Silent Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 224957,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/silent-lib-1.19.2-7.0.3.jar",
+            "MD5": "54cc0a226b1fdb7ba6530b2ad988f557"
           }
         },
         {
@@ -1603,6 +1783,16 @@
           }
         },
         {
+          "id": "net.mcreator.mushysfallenmonsters:mushys_fallen_monsters:1.0.0@jar",
+          "name": "Fallen Monsters",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 170470,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/thefallenmonstersprehistoricaupdate.jar",
+            "MD5": "367eb77d2e56a026602322c0c8c691f3"
+          }
+        },
+        {
           "id": "com.klikli_dev:theurgy:1.19.2-1.3.0@jar",
           "name": "Theurgy",
           "type": "ForgeMod",
@@ -1693,6 +1883,16 @@
           }
         },
         {
+          "id": "net.valhelsia.valhelsia_core.core:valhelsia_core:1.19.2-0.5.0@jar",
+          "name": "Valhelsia Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 702728,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/valhelsia_core-forge-1.19.2-0.5.0.jar",
+            "MD5": "efd90af3378eadb475fb1d413a72422b"
+          }
+        },
+        {
           "id": "satisfyu.vinery:vinery:1.2.11@jar",
           "name": "Vinery",
           "type": "ForgeMod",
@@ -1733,6 +1933,16 @@
           }
         },
         {
+          "id": "com.sky:weaponmaster:1.3.1-1.19.2@jar",
+          "name": "Weapon Master",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2455364,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/weaponmaster-1.3.1-1.19.2.jar",
+            "MD5": "689709df08aa669e16605fa7993275aa"
+          }
+        },
+        {
           "id": "com.minecraftserverzone:weaponmaster:3.0.5@jar",
           "name": "YDM's Weapon Master",
           "type": "ForgeMod",
@@ -1740,6 +1950,26 @@
             "size": 180466,
             "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/weaponmaster-multiplayer-forge-1.19.2-3.0.5.jar",
             "MD5": "a3f976107af327b7f5ee93e37aed6783"
+          }
+        },
+        {
+          "id": "reascer.wom.main:wom:19.1.7.34@jar",
+          "name": "Weapons of Minecraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9399865,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/WeaponsOfMiracles-19.1.7.34.jar",
+            "MD5": "8e553afb476f7626c09e1390f5304abd"
+          }
+        },
+        {
+          "id": "nonamecrackers2.witherstormmod:witherstormmod:3.1.1.1@jar",
+          "name": "Cracker's Wither Storm Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22089020,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/witherstormmod-1.19.2-3.1.1.1.jar",
+            "MD5": "c4d7a5178207dee9a6aa8e3261a0dd28"
           }
         },
         {
@@ -1783,6 +2013,26 @@
           }
         },
         {
+          "id": "com.yungnickyoung.minecraft:betterdungeons:1.19.2-Forge-3.2.2@jar",
+          "name": "YUNG's Better Dungeons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 997998,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/YungsBetterDungeons-1.19.2-Forge-3.2.2.jar",
+            "MD5": "23c0c4dda050b0ac7b3893f6081d925d"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterendisland:1.19.2-Forge-1.0@jar",
+          "name": "YUNG's Better End Island",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 636740,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/YungsBetterEndIsland-1.19.2-Forge-1.0.jar",
+            "MD5": "91f6a4f40c2e354a7bf11a63cd8cd622"
+          }
+        },
+        {
           "id": "com.yungnickyoung.minecraft:bettermineshafts:1.19.2-Forge-3.2.0@jar",
           "name": "YUNG's Better Mineshafts",
           "type": "ForgeMod",
@@ -1790,6 +2040,16 @@
             "size": 273471,
             "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar",
             "MD5": "e4b85013323e1cf4800267cd919fb928"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betteroceanmonuments:1.19.2-Forge-2.1.1@jar",
+          "name": "YUNG's Better Ocean Monuments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1510053,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/YungsBetterOceanMonuments-1.19.2-Forge-2.1.1.jar",
+            "MD5": "4cd617cda5ec5159825b5af4be82bbdc"
           }
         },
         {
