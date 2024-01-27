@@ -1366,6 +1366,16 @@
           }
         },
         {
+          "id": "mcjty.lib:mcjtylib:1.19-7.2.5@jar",
+          "name": "McJtyLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 678579,
+            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/mcjtylib-1.19-7.2.5.jar",
+            "MD5": "b0a903ede4f658694aa993b725da398d"
+          }
+        },
+        {
           "id": "mekanism:mekanism:10.3.9@jar",
           "name": "Mekanism",
           "type": "ForgeMod",
