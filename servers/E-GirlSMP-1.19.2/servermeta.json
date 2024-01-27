@@ -3,7 +3,7 @@
   "meta": {
     "version": "1.0.0",
     "name": "E-GirlSMP (Minecraft 1.19.2)",
-    "description": "E-GirlSMP Running Minecraft 1.19.2 (Forge v43.2.21)",
+    "description": "E-GirlSMP Running Minecraft 1.19.2 (Forge v43.3.7)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "localhost:25565",
     "discord": {
@@ -15,7 +15,7 @@
     "autoconnect": false
   },
   "forge": {
-    "version": "43.2.21"
+    "version": "43.3.7"
   },
   "untrackedFiles": []
 }
