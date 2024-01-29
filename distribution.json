@@ -1146,16 +1146,6 @@
           }
         },
         {
-          "id": "qouteall.imm_ptl.core.platform_specific:immersive_portals:2.3.6@jar",
-          "name": "Immersive Portals",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1668984,
-            "url": "https://github.com/Zacharyoil/e-girlsmp/raw/main/servers/E-GirlSMP-1.19.2/forgemods/required/immersive-portals-2.3.6-mc1.19.2-forge.jar",
-            "MD5": "961b33290ad2a1f24ea9a3067f645a67"
-          }
-        },
-        {
           "id": "blusunrize.immersiveengineering:immersiveengineering:1.19.2-9.2.3-167@jar",
           "name": "Immersive Engineering",
           "type": "ForgeMod",
